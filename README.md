@@ -27,6 +27,10 @@ python pookals.py
 Project Documentation
 
 <img width="1028" height="972" alt="Screenshot 2025-09-01 225125" src="https://github.com/user-attachments/assets/e52123d6-9781-45d1-b970-6298c59d5b28" />
+<img width="1107" height="980" alt="Screenshot 2025-09-01 224838" src="https://github.com/user-attachments/assets/181cc484-b8e1-403b-a66e-6907e56100f8" />
+
+<img width="1028" height="972" alt="Screenshot 2025-09-01 225125" src="https://github.com/user-attachments/assets/27005e9f-144c-4707-bb90-96d74c25bd5a" />
+
 
 Video
 https://drive.google.com/file/d/1CRd86KxpqxLsoXQDBUB5dgc1WrADaUa9/view?usp=drive_link
