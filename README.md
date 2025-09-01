@@ -8,6 +8,10 @@ Name: Deena George
 Project Description
 An interactive onam pookalam made with Python Turtle.
 It allows users to change colour of pookalam,have surprises inside pookalam and even change pookalam pattern.
+click A,B,C,D to change pookalam colours
+click R to reset
+click P to change pattern
+click O to have a surprise
 
 Technical Details
 Technologies/Components Used
