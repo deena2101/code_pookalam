@@ -2,6 +2,7 @@
 
 
 ✨Code-A-Pookalam✨
+
 Basic Details
 Name: Deena George
 Project Description
@@ -13,28 +14,21 @@ Technologies/Components Used
 Languages: Python
 Libraries: Turtle 
 Tools:VS Code 
+
 Installation
-[commands]
+git clone https://github.com/deena2101/code_pookalam.git
+cd code_pookalam
+
 
 Run
-[commands]
+python pookals.py
+
 
 Project Documentation
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+<img width="1028" height="972" alt="Screenshot 2025-09-01 225125" src="https://github.com/user-attachments/assets/e52123d6-9781-45d1-b970-6298c59d5b28" />
 
 Video
-[Add your demo video link here] Explain what the video demonstrates
-
+https://drive.google.com/file/d/1CRd86KxpqxLsoXQDBUB5dgc1WrADaUa9/view?usp=drive_link
 Made with ❤️ at TinkerHub VJCET's Code A Pookalam
 
-Static Badge Static Badge
-
-Releases
-No releases published
-Packages
-No packages published
